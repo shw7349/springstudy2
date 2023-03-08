@@ -1,0 +1,6 @@
+[submodule "springstudy1"]
+	path = springstudy1
+	url = https://github.com/shw7349/springstudy.git
+[submodule "core2"]
+	path = core2
+	url = https://github.com/shw7349/springstudy.git
