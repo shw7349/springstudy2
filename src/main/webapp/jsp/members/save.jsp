@@ -1,5 +1,5 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="hello.servlet.basic.domain.member.Member" %>
+<%@ page pageEncoding="UTF-8" language="java" contentType="text/html; charset=UTF-8"%>
+<%@ page import="hello.servlet.domain.member.Member" %>
 <%@ page import="hello.servlet.domain.member.MemberRepository" %>
 <%
     //request, response 사용 가능
