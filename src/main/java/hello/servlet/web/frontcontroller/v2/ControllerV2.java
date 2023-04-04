@@ -7,6 +7,7 @@ import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
 
+//View 분리 도입
 public interface ControllerV2 {
 
     MyView process(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException;
