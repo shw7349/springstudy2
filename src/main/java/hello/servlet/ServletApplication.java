@@ -8,7 +8,8 @@ import org.springframework.web.servlet.ViewResolver;
 import org.springframework.web.servlet.view.InternalResourceView;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
-@ServletComponentScan //Servlet 자동 등록
+//Servlet 자동 등록
+@ServletComponentScan
 @SpringBootApplication
 public class ServletApplication {
 
